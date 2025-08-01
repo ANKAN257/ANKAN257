@@ -4,7 +4,7 @@ I am Ankan Kumar.
 I graduated in 2024 with a specialization in Information Technology from NIT Jalandhar."
 
 
-- 📫 How to reach me: Drop a message at [**LinkedIn** ](https://www.linkedin.com/in/abhishek-kumar-7178741ba/) or mail at [**gmail** ](mailto:ankankumar071@gmail.com) I will be more than happy to hear from you😇.
+- 📫 How to reach me: Drop a message at [**LinkedIn** ]([](https://www.linkedin.com/in/ankan-kumar-11944120a/)) or mail at [**gmail** ](mailto:ankankumar071@gmail.com) I will be more than happy to hear from you😇.
 
 ![](https://komarev.com/ghpvc/?username=pawankholiya01&color=blue)
 
